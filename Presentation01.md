@@ -1,7 +1,7 @@
 # Mapping Non-English Language Movie Theaters and Speakers
 
-<iframe src="Theater language dist.png" height=350 width=600></iframe>
+<iframe src="Theater language dist.jpg" height=350 width=600></iframe>
 
-![Alt text](Theater language dist.png "Theater lang dist")
+![Alt text](Theater language dist.jpg "Theater lang dist")
 
 

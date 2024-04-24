@@ -29,11 +29,11 @@
 
 
 
-![Alt text](Pres 7.png "Pres 7")\\
+![Alt text](Pres 7.png "Pres 7")
 
 
 
-![Alt text](Four multiples 8.png "Four M8")\
+![Alt text](Four multiples 8.png "Four M8")
 
 
 

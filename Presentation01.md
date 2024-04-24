@@ -25,7 +25,7 @@
 
 
 
-![Alt text](FLM perc 6A.png "FLM 6B")
+![Alt text](FLM perc 6B.png "FLM 6B")
 
 
 

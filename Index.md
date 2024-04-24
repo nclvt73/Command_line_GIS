@@ -4,4 +4,6 @@ The following Interactive Web Map was created as part of Command Line GIS at the
 
 -- Insert file here --
 
+<iframe src="Theater language dist.png" height=350 width=600></iframe>
+
 Thank you!

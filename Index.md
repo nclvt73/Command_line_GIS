@@ -4,4 +4,4 @@ The following Interactive Web Map was created as part of Command Line GIS at the
 
 -- Insert file here --
 
-Thank you!
+Thank you

@@ -1,5 +1,7 @@
 # Mapping Non-English Language Movie Theaters and Speakers
 
+![Alt text](NJ Theaters Langs 01B.png "NJTL01B")
+
 
 ![Alt text](Pres 1.png "Pres 1")
 

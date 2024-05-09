@@ -4,10 +4,10 @@
 
 #
 
-![Alt text](Indian_Small.png "Indian small")
+![Alt text](Indian_Small.JPG "Indian small")
 
-![Alt text](Asian_Small.png "Asian small")
+![Alt text](Asian_Small.JPG "Asian small")
 
-![Alt text](Romance_Small.png "Romance small")
+![Alt text](Romance_Small.JPG "Romance small")
 
 #

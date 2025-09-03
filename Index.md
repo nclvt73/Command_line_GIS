@@ -1,7 +1,5 @@
-Movie theaters showing Non-English language movies and speakers of Non-English languages in the Greater New Jersey Metro Area
+Command Line GIS : 
 
-The following Interactive Web Map was created as part of Command Line GIS at the Bloustein School:
+<a href= "https://nclvt73.github.io/Command_line_GIS//TheatersLangs01.html"> Mapping Non-English Language Movie Theaters and Speakers </a>
 
--- Insert file here --
-
-Thank you
+Site created for the Spring 2024 Command-Line GIS course at the Rutgers Bloustein School.

@@ -1,7 +1,5 @@
 # Mapping Non-English Language Movie Theaters and Speakers
 
-This project was produced by Nathaniel Lange as part of the course Command-line GIS with Professor Will Payne at the Bloustein School of Planning and Public Policy, Spring 2024 semester.
-
 Since moving to New Jersey to go to Rutgers, I have been impressed by the cultural diversity present here.  The many cultures and nationalities comprising our community are reflected in the languages spoken here, and one of the reflections of the languages spoken here is in the languages movies are shown in in theaters, a diverse offering apparent when you check the movie listings.  To explore this, I collected data on the languages of movies being shown across the state and in the adjacent metropolitan areas via web scraping of the movie listings on <a href="https://www.cinemaclock.com/"> CinemaClock.com </a> for the week of 04/22/24.
 
 I then mapped the theaters along with two types data related to language diversity from the US Census Bureau: the percentage of the population that's foreign-born (from Census table B16005), available by census tract, and the percentage of the population speaking specific individual languages (from table B16001 via Social Explorer with assistance from  Professor Payne), available by PUMA (Public Use Microdata Area, areas containing roughly 100,000 people which may be the size of a county or of a neighborhood in an urban area).  Data cleaning was needed on the theaters side following the web scraping process; less so for the census data, though a lot of steps were needed to bring all the components together. 
@@ -12,13 +10,12 @@ My first map shows percentage foreign-born by census tract across the state and 
 
 # Interactive Map:
 
-The final version of my interactive map was too large to upload to Github, so I'm ncluding the link to the file on Google drive here:
+To view my interactive map, please download the html file grom Google drive here and launch it on your PC:
 <a href="https://drive.google.com/file/d/1ZBO3bXPVjO3kZ4ZLvsIY_1FLbu2CY2E-/view?usp=drive_link"> Google drive link- final version </a>
-Please download the html file and launch it on your PC.  
 
 The interactive map contains markers for 256 theaters (including 46 closed theaters), with a backdrop choropleth map of Percent Foreign Born by census tract. Theaters are classified as showing more than one, or one or fewer, non-English movies. Popup & tooltip (mouse-over) info for each theater includes (along with Theater Name and Address) the number of total and non-English language movies being shown at the theater and the list of languages with movies being shown for the week of 4/22/24.    Additionally, the popup for each theater includes the "PUMA Exceptional language": the language with the highest percentage of speakers relative to the US overall percentage of speakers, for the PUMA the theater is located in, along with the % comparison.  This info was calculated for each PUMA via Excel and then added to the theaters by spatial join.
 
-An earlier version of my interactive map (missing the choropleth component outside of NJ, the popup info on PUMA exceptional language, and the draggable legend) is here:
+See this link for an earlier version of my interactive map:
 <a href="https://nclvt73.github.io/Command_line_GIS/Theaters_langs_folium_01.html"> Github link- initial version. </a>
 
 # Individual Language Maps:
@@ -61,4 +58,7 @@ For the 12 languages shown here, I chose a mix of languages that are among the m
 ![Alt text](Theaters_Italian.png "Italian map")
 
 ![Alt text](Theaters_Portuguese.png "Portuguese map")
+
+This project was produced by Nathaniel Lange as part of the course Command-line GIS with Professor Will Payne at the Bloustein School of Planning and Public Policy, Spring 2024 semester.
+
 

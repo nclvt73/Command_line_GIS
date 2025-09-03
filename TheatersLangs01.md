@@ -2,7 +2,7 @@
 
 Since moving to New Jersey to go to Rutgers, I have been impressed by the cultural diversity present here.  The many cultures and nationalities comprising our community are reflected in the languages spoken here, and one of the reflections of the languages spoken here is in the languages movies are shown in in theaters, a diverse offering apparent when you check the movie listings.  To explore this, I collected data on the languages of movies being shown across the state and in the adjacent metropolitan areas via web scraping of the movie listings on <a href="https://www.cinemaclock.com/"> CinemaClock.com </a> for the week of 04/22/24.
 
-I then mapped the theaters along with two types data related to language diversity from the US Census Bureau: the percentage of the population that's foreign-born (from Census table B16005), available by census tract, and the percentage of the population speaking specific individual languages (from table B16001 via Social Explorer with assistance from  Professor Payne), available by PUMA (Public Use Microdata Area, areas containing roughly 100,000 people which may be the size of a county or of a neighborhood in an urban area).  Data cleaning was needed on the theaters side following the web scraping process; less so for the census data, though a lot of steps were needed to bring all the components together. 
+I then mapped the theaters along with two types data related to language diversity from the US Census Bureau: the percentage of the population that's foreign-born (from Census table B16005), available by census tract, and the percentage of the population speaking specific individual languages (from table B16001 via Social Explorer), available by PUMA (Public Use Microdata Area, areas containing roughly 100,000 people which may be the size of a county or of a neighborhood in an urban area). 
 
 The first map shows percentage foreign-born by census tract across the state and Metro areas as a choropleth map, with movie theaters showing non-English movies indicated by blue dots of varying size which is based on the number of non-English movies being shown by the theater at the time of data colection. Nine of the top eleven theaters by number of non-English films being shown are labeled on the map.  Several of these top theaters are in the immediate vicinity of New Brunswick.
 
@@ -59,6 +59,6 @@ For the 12 languages shown here, I chose a mix of languages that are among the m
 
 ![Alt text](Theaters_Portuguese.png "Portuguese map")
 
-This project was produced by Nathaniel Lange as part of the course Command-line GIS with Professor Will Payne at the Bloustein School of Planning and Public Policy, Spring 2024 semester.
+This project was produced by Nathaniel Lange as part of the course Command-line GIS with Professor Will Payne at the Bloustein School of Planning and Public Policy, Spring 2024 semester. Thanks to Prof. Payne for his assistance, particularly in obtaining the language speakers data by PUMA for the individual languages.
 
 
